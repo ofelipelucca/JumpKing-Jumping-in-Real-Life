@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html lang="pt-br">
 <head>
     <style>
         .logos {
@@ -5,6 +7,7 @@
         }
     </style>
 </head>
+<body>
 
 # Jump King Jumping in Real Life
 <img src="Gameplay.gif" alt="Streamer Calango using the JumpKing Jumping in Real Life" width="300px">
@@ -32,3 +35,5 @@ Qualquer valor doado será imensamente bem-vindo! Para doaçoes enviadas no PIX 
 
 *(en-us)*
 Any donated amount will be greatly appreciated! For donations sent via PIX (QR code above) with a value equal to or greater than 10 Reais, the donor will receive the most up-to-date executable (.exe) of the program via email. (Send the email address where the program should be sent in the PIX message, or request it through the [Google Forms](https://forms.gle/L3V9vTZEpExnqrKb6)).
+</body>
+</html>
