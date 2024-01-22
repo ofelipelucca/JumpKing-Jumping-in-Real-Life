@@ -1,5 +1,5 @@
 # Jump King Jumping in Real Life
-![Streamer Calango using the JumpKing Jumping in Real Life](Gameplay.gif){width=200px height=150px}
+![Streamer Calango using the JumpKing Jumping in Real Life](Gameplay.gif){width=50px height=50px}
 
 ## Description 
 
