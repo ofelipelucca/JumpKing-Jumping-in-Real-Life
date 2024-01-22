@@ -7,7 +7,7 @@
 Este projeto é totalmente desenvolvido em C++ e oferece uma aplicação que permite aos usuários usar seus movimentos capturados pela webcam para jogar jogos. Especificamente adaptado para o jogo JumpKing, o programa utiliza o OpenCV para processar as imagens.
 
 <div display="inline-block">
-    <img src="C++(logo).png" alt="C++ logo" width="60px" style="margin-right: 10px;">
+    <img src="C++(logo).png" alt="C++ logo" width="60px" style="margin-right: 40px;">
     <img src="OpenCV(logo).png" alt="OpenCV logo" width="60px">
 </div>
 
