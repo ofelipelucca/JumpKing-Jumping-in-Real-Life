@@ -1,14 +1,3 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <style>
-        .logos {
-            display: inline-block;
-        }
-    </style>
-</head>
-<body>
-
 # Jump King Jumping in Real Life
 <img src="Gameplay.gif" alt="Streamer Calango using the JumpKing Jumping in Real Life" width="300px">
 
@@ -17,8 +6,10 @@
 *(pt-br)*
 Este projeto é totalmente desenvolvido em C++ e oferece uma aplicação que permite aos usuários usar seus movimentos capturados pela webcam para jogar jogos. Especificamente adaptado para o jogo JumpKing, o programa utiliza o OpenCV para processar as imagens.
 
-<img class="logos" src="C++(logo).png" alt="C++ logo" display="inline-block" width="60px">
-<img class="logos" src="OpenCV(logo).png" alt="OpenCV logo" display="inline-block" width="60px">
+<div display="inline-block">
+    <img src="C++(logo).png" alt="C++ logo" width="60px">
+    <img src="OpenCV(logo).png" alt="OpenCV logo" width="60px">
+</div>
 
 Com essa aplicação, os usuários podem criar quadrados na tela e associar teclas a eles. Sempre que um movimento for detectado dentro do quadrado, a tecla correspondente será pressionada. O programa também inclui uma funcionalidade adaptada para jogar JumpKing, onde é possível detectar os pulos. Uma linha será exibida na tela, e quanto mais alto o usuário pular acima dessa linha, mais alto o personagem do JumpKing irá pular.
 
@@ -35,5 +26,3 @@ Qualquer valor doado será imensamente bem-vindo! Para doaçoes enviadas no PIX 
 
 *(en-us)*
 Any donated amount will be greatly appreciated! For donations sent via PIX (QR code above) with a value equal to or greater than 10 Reais, the donor will receive the most up-to-date executable (.exe) of the program via email. (Send the email address where the program should be sent in the PIX message, or request it through the [Google Forms](https://forms.gle/L3V9vTZEpExnqrKb6)).
-</body>
-</html>
