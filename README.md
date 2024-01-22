@@ -17,8 +17,8 @@
 *(pt-br)*
 Este projeto é totalmente desenvolvido em C++ e oferece uma aplicação que permite aos usuários usar seus movimentos capturados pela webcam para jogar jogos. Especificamente adaptado para o jogo JumpKing, o programa utiliza o OpenCV para processar as imagens.
 
-<img class="logos" src="C++(logo).png" alt="C++ logo">
-<img class="logos" src="OpenCV(logo).png" alt="OpenCV logo">
+<img class="logos" src="C++(logo).png" alt="C++ logo" display="inline-block" width="60px">
+<img class="logos" src="OpenCV(logo).png" alt="OpenCV logo" display="inline-block" width="60px">
 
 Com essa aplicação, os usuários podem criar quadrados na tela e associar teclas a eles. Sempre que um movimento for detectado dentro do quadrado, a tecla correspondente será pressionada. O programa também inclui uma funcionalidade adaptada para jogar JumpKing, onde é possível detectar os pulos. Uma linha será exibida na tela, e quanto mais alto o usuário pular acima dessa linha, mais alto o personagem do JumpKing irá pular.
 
