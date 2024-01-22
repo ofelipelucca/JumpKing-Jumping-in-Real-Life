@@ -1,8 +1,10 @@
-<style>
-    .logos {
-        display: inline-block;
-    }
-</style>
+<head>
+    <style>
+        .logos {
+            display: inline-block;
+        }
+    </style>
+</head>
 
 # Jump King Jumping in Real Life
 <img src="Gameplay.gif" alt="Streamer Calango using the JumpKing Jumping in Real Life" width="300px">
