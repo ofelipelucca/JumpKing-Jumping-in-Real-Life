@@ -24,7 +24,7 @@ With this application, users can create squares on the screen and associate keys
 <img src="GitHubImages/pix.jpeg" alt="PIX QRcode" width="150px" style="margin-bottom: 20px;">
 
 *(pt-br)*
-Qualquer valor doado será imensamente bem-vindo! Para doaçoes enviadas no PIX (QR code acima) com o valor igual ou superior a 10 reais, o doador irá receber o executável (.exe) mais atualizado o programa via Email (envie o email onde o programa deve ser enviado na mensagem do PIX, ou faça a requisição pelo [Google Forms](https://forms.gle/L3V9vTZEpExnqrKb6)).
+Qualquer valor doado será imensamente bem-vindo! Para doaçoes enviadas no PIX (QR code acima) com o valor igual ou superior a 10 Reais, o doador irá receber o executável (.exe) mais atualizado do programa via Email (envie o email onde o programa deve ser enviado na mensagem do PIX, ou faça a requisição pelo [Google Forms](https://forms.gle/L3V9vTZEpExnqrKb6)).
 
 *(en-us)*
 Any donated amount will be greatly appreciated! For donations sent via PIX (QR code above) with a value equal to or greater than 10 Reais, the donor will receive the most up-to-date executable (.exe) of the program via email. (Send the email address where the program should be sent in the PIX message, or request it through the [Google Forms](https://forms.gle/L3V9vTZEpExnqrKb6)).
