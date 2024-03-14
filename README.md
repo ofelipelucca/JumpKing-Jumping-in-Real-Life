@@ -21,4 +21,6 @@ This project is entirely developed in C++ and provides an application that allow
 With this application, users can create squares on the screen and associate keys with them. Whenever a movement is detected within the square, the corresponding key will be pressed. The program also includes a feature adapted for playing JumpKing, where it can detect jumps. A line will be displayed on the screen, and the higher the user jumps above this line, the higher the JumpKing character will jump.
 
 ## Support! :) 
-<img src="GitHubImages/pix.jpeg" alt="PIX QRcode" width="150px" style="margin-bottom: 20px;">
+<img src="GitHubImages/pix.jpeg" alt="PIX QRcode" width="150px" style="margin-bottom: 20px;">
+
+Jump King Jumping in Real Life / OpenCV / C++
