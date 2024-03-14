@@ -21,7 +21,4 @@ This project is entirely developed in C++ and provides an application that allow
 With this application, users can create squares on the screen and associate keys with them. Whenever a movement is detected within the square, the corresponding key will be pressed. The program also includes a feature adapted for playing JumpKing, where it can detect jumps. A line will be displayed on the screen, and the higher the user jumps above this line, the higher the JumpKing character will jump.
 
 ## Support! :) 
-<img src="GitHubImages/pix.jpeg" alt="PIX QRcode" width="150px" style="margin-bottom: 20px;">
-
-*(pt-br)*
-Qualquer valor doado será imensamente bem-vindo! Para doaçoes enviadas no PIX (QR code acima) com o valor igual ou superior a 10 Reais, o doador irá receber o executável (.exe) mais atualizado do programa via Email (envie o email onde o programa deve ser enviado na mensagem do PIX, ou faça a requisição pelo [Google Forms](https://forms.gle/L3V9vTZEpExnqrKb6)).
+<img src="GitHubImages/pix.jpeg" alt="PIX QRcode" width="150px" style="margin-bottom: 20px;">
